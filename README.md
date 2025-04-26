@@ -12,9 +12,6 @@
 - **完善的评测功能：普通测评、特殊测评、交互测评、在线自测、子任务分组评测、文件IO**
 - **完善的比赛功能：打星队伍、关注队伍、外榜、滚榜**
 
-|               在线Demo               |                   在线文档                   |             Github&Gitee仓库地址             |           QQ群           |
-| :--------------------------------: | :--------------------------------------: | :--------------------------------------: | :---------------------: |
-| [https://hdoi.cn](https://hdoi.cn) | [https://docs.hdoi.cn](https://docs.hdoi.cn) | [https://github.com/HimitZH/HOJ](https://github.com/HimitZH/HOJ)  [https://gitee.com/himitzh0730/hoj](https://gitee.com/himitzh0730/hoj) | 598587305（已满）、743568562 |
 
 **注意：**
 
